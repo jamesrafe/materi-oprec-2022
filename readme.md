@@ -1,4 +1,4 @@
-# Berkontribusi di Proyek Open Source
+# OPREC 2022
 ## Camin MCI 2022
 
 Repository ini digunakan untuk mendata calon admin MCI tahun 2022. Jika Anda tertarik untuk menjadi admin, silakan lakukan PR (Pull Request) pada berkas ini.
